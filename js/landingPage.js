@@ -1,6 +1,6 @@
 toggle = document.getElementById('toggle')
 open = document.getElementById('open')
-modal = document.getElemetById('modal')
+model = document.getElemetById('modal')
 
 
 toggle.addEventListener('click', () => {
